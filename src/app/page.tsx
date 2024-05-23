@@ -28,6 +28,8 @@ export default function Home() {
         </div>
       </div>
 
+      <input type="date" />
+
       <div className={styles.center}>
         <Image
           className={styles.logo}
