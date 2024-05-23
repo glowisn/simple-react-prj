@@ -6,6 +6,7 @@ export default function Home() {
     <main className={styles.main}>
 
       <input type="date" placeholder="date input" />
+      <input type="datetime-local" placeholder="datetime input" />
 
       
     </main>
